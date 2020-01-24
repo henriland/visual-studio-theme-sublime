@@ -25,7 +25,6 @@
 				<string>#9DA7C3</string>
 			</dict>
 		</dict>
-		<!-- Diff Colors: https://gist.github.com/erictrinh/3870269  -->
 		<dict>
 			<key>name</key>
 			<string>Diff insertion</string>
